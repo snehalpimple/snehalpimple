@@ -1,7 +1,6 @@
-I'm a Master's student at Northeastern University in Electrical and Computer Engineering with concentration in Computer Vision, Machine Learning and Algorithms. I have a professional 5+ years of experience as a Data Analyst. 
+I'm a Master's student at Northeastern University in Electrical and Computer Engineering with concentration in Computer Vision, Machine Learning and Algorithms. I have 5+ years of professional experience as a Data Analyst in Market Research company, where I acquired skills in data cleaning, data processing and analyzing data to provide meaningful insights for clients' products and services.
 
-## Find me around the web 🌎: <a href="https://github.com/snehalpimple"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Sharing updates on <a href="https://www.linkedin.com/in/snehal-pimple/">LinkedIn</a> 💼
+My interest lies in Data Science, Machine Learning. I am available for internship and co-op for Summer/Fall 2022.
 
 [![Snehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehalpimple)](https://github.com/snehalpimple/github-readme-stats)
 
